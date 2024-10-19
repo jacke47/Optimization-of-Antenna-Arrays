@@ -68,3 +68,10 @@ def cross_validate(fold, model, optimizer, criterion, epochs, data, batch_size, 
 
     return training_avg_loss, testing_avg_loss
 
+def main():
+    train_dataset = 
+    model = SimpleNN()
+
+
+if __name__=="__main__":
+    main()
